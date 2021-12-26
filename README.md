@@ -32,7 +32,7 @@ Animate.css supports the [`prefers-reduced-motion` media query](https://webkit.o
 
 | ![Daniel Eden](https://avatars2.githubusercontent.com/u/439365?s=460&u=512b4cc5324938ae40bbb8f3b7769d335953cd3a&v=4) | ![Elton Mesquita](https://avatars2.githubusercontent.com/u/5007208?s=460&u=418401ee605824272e5dcb955fd64ea24546a857&v=4) | ![Judy Hoops](https://avatars.githubusercontent.com/attwice) |
 | --- | --- | --- |
-| [Daniel Eden](https://github.com/daneden) | [Elton Mesquita](https://github.com/eltonmesquita) | [Waren Gonzaga](https://github.com/attwice) |
+| [Daniel Eden](https://github.com/daneden) | [Elton Mesquita](https://github.com/eltonmesquita) | [Judy Hoops](https://github.com/attwice) |
 | Animate.css Creator | Maintainer | Core Contributor |
 
 ## License
